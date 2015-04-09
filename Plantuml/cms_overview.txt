@@ -1,0 +1,3 @@
+﻿@startuml
+CMScore --> "1" CloudManagerService
+@enduml
