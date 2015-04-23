@@ -5,7 +5,7 @@ import sys,random,os
 
 cpright = '''cfind v0.1 A customed find tool
 Usage: cfind.py keyword
-It will find all files and lines in the current and inner directories.'''
+It will find all files and lines in the current and inner directories by the keyword.'''
 
 keyword = ""
 
